@@ -5,6 +5,5 @@
 	<p><input name="but_district" type="button" value="Districts"></p>
 	<p><input name="but_map" type="button" value="Map"></p>
 	<p><input name="but_info" type="button" value="How to"></p>
-	<p><input name="but_exit" type="button" value="Exit"></p>
 </form>
 <p>&nbsp;</p>
